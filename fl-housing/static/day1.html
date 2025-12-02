@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day1 - 用户体系 API调试</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        h1 { color: #1890ff; margin-bottom: 20px; }
+        .back { color: #666; text-decoration: none; display: inline-block; margin-bottom: 20px; }
+        details.file-list { background: #e6f7ff; border: 1px solid #91d5ff; padding: 15px; border-radius: 4px; margin-bottom: 20px; }
+        details.file-list summary { cursor: pointer; font-weight: bold; color: #1890ff; }
+        .token-bar { background: #fffbe6; border: 1px solid #ffe58f; padding: 12px 15px; border-radius: 4px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; }
+        .token-bar label { font-weight: bold; white-space: nowrap; }
+        .token-bar input { flex: 1; padding: 8px 12px; border: 1px solid #d9d9d9; border-radius: 4px; font-family: monospace; }
+        .api-card { background: #fff; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); overflow: hidden; }
+        .api-header { background: #1890ff; color: #fff; padding: 12px 20px; display: flex; align-items: center; gap: 15px; }
+        .api-header .method { padding: 4px 10px; border-radius: 4px; font-weight: bold; font-size: 12px; }
+        .api-header .method.get { background: #52c41a; }
+        .api-header .method.post { background: #fa8c16; }
+        .api-header .method.put { background: #1890ff; }
+        .api-header .method.delete { background: #ff4d4f; }
+        .api-header .title { font-weight: bold; flex: 1; }
+        .api-header .tag { background: rgba(255,255,255,0.2); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .api-body { padding: 20px; }
+        .api-url { background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 4px; padding: 10px 15px; font-family: monospace; font-size: 13px; margin-bottom: 15px; color: #24292e; word-break: break-all; }
+        .section-title { font-size: 13px; font-weight: bold; color: #666; margin: 15px 0 8px; }
+        .json-input { width: 100%; min-height: 120px; padding: 12px; border: 1px solid #d9d9d9; border-radius: 4px; font-family: 'Monaco', 'Consolas', monospace; font-size: 13px; line-height: 1.5; resize: vertical; background: #fafafa; }
+        .json-input:focus { outline: none; border-color: #1890ff; background: #fff; }
+        .btn-row { margin-top: 15px; display: flex; gap: 10px; }
+        .btn { padding: 10px 25px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: bold; }
+        .btn-send { background: #1890ff; color: #fff; }
+        .btn-send:hover { background: #40a9ff; }
+        .btn-copy { background: #f0f0f0; color: #666; }
+        .btn-copy:hover { background: #e0e0e0; }
+        .response-block { margin-top: 15px; }
+        .response-block .section-title { display: flex; align-items: center; gap: 10px; }
+        .response-block .status { padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .response-block .status.success { background: #f6ffed; color: #52c41a; }
+        .response-block .status.error { background: #fff2f0; color: #ff4d4f; }
+        .response-output { background: #1e1e1e; color: #d4d4d4; border-radius: 4px; padding: 15px; font-family: monospace; font-size: 13px; line-height: 1.6; max-height: 300px; overflow: auto; white-space: pre-wrap; word-break: break-word; }
+        .tip { background: #fffbe6; border: 1px solid #ffe58f; padding: 10px 15px; border-radius: 4px; font-size: 13px; color: #8c6e00; margin-top: 12px; }
+        .auth-tip { background: #fff7e6; border-left: 3px solid #fa8c16; padding: 8px 12px; font-size: 12px; color: #d46b08; margin-bottom: 15px; }
+        .field-desc { margin-top: 10px; }
+        .field-desc summary { cursor: pointer; font-size: 13px; color: #1890ff; font-weight: bold; }
+        .field-desc table { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 12px; }
+        .field-desc th, .field-desc td { border: 1px solid #e8e8e8; padding: 8px 10px; text-align: left; }
+        .field-desc th { background: #fafafa; color: #666; }
+        .field-desc .required { color: #ff4d4f; font-weight: bold; }
+        .field-desc .optional { color: #52c41a; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back">← 返回首页</a>
+        <h1>Day 1 - 用户体系 API调试</h1>
+        
+        <details class="file-list">
+            <summary>📁 Day1 需提交的文件清单（共29个文件），点击展开</summary>
+            <div style="font-size:13px;line-height:2;margin-top:10px;">
+1. config.py - 配置文件<br>
+2. requirements.txt - 依赖清单<br>
+3. main.py - 入口文件<br>
+4. app/__init__.py - app包初始化<br>
+5. app/core/__init__.py - core包初始化<br>
+6. app/core/database.py - 数据库连接<br>
+7. app/core/security.py - 密码和Token<br>
+8. app/core/response.py - 统一响应<br>
+9. app/core/exceptions.py - 异常处理<br>
+10. app/core/dependencies.py - 依赖注入<br>
+11. app/utils/__init__.py - utils包初始化<br>
+12. app/utils/sms.py - 短信模拟<br>
+13. app/utils/payment.py - 支付模拟<br>
+14. app/utils/idcard.py - 实名模拟<br>
+15. app/utils/credit.py - 信用分模拟<br>
+16. app/utils/qrcode.py - 二维码<br>
+17. app/utils/validators.py - 校验工具<br>
+18. app/models/__init__.py - models包初始化<br>
+19. app/models/fl_user.py - 用户模型<br>
+20. app/schemas/__init__.py - schemas包初始化<br>
+21. app/schemas/fl_user_schema.py - 用户Schema<br>
+22. app/services/__init__.py - services包初始化<br>
+23. app/services/fl_user_service.py - 用户服务<br>
+24. app/api/__init__.py - api包初始化<br>
+25. app/api/v1/__init__.py - v1包初始化<br>
+26. app/api/v1/fl_auth.py - 认证API<br>
+27. app/api/v1/fl_user.py - 用户API<br>
+28. static/index.html - 调试首页<br>
+29. static/day1.html - Day1调试页
+            </div>
+        </details>
+
+        <div class="token-bar">
+            <label>🔑 Token:</label>
+            <input type="text" id="globalToken" placeholder="登录/注册后自动填入，需登录的接口会自动携带">
+        </div>
+
+        <div style="background:#f0f5ff;border:1px solid #adc6ff;border-radius:4px;padding:12px 15px;margin-bottom:15px;font-size:13px;color:#1d39c4;">
+            <b>📌 测试模式说明：</b><br>
+            • 短信验证码：当前为模拟发送，万能验证码 <code style="background:#fff;padding:2px 6px;border-radius:3px;">666666</code> 可通过所有验证<br>
+            • 实名认证/信用分：当前为模拟通过，直接返回成功<br>
+            • 正式上线需要企业资质开通阿里云API，真实代码已写好并注释在 <code style="background:#fff;padding:2px 6px;border-radius:3px;">app/utils/sms.py</code>
+        </div>
+
+        <details style="background:#fff2f0;border:1px solid #ffccc7;border-radius:4px;padding:12px 15px;margin-bottom:20px;font-size:13px;color:#a8071a;">
+            <summary style="cursor:pointer;font-weight:bold;">⚠️ 状态码与异常说明（点击展开）</summary>
+            <div style="margin-top:10px;line-height:1.8;">
+                <b>状态码说明：</b><br>
+                • <code style="background:#f6ffed;color:#52c41a;padding:2px 6px;border-radius:3px;">200</code> 请求成功<br>
+                • <code style="background:#fff7e6;color:#fa8c16;padding:2px 6px;border-radius:3px;">400</code> 参数错误或业务校验失败，message字段返回具体错误原因<br>
+                • <code style="background:#fff2f0;color:#ff4d4f;padding:2px 6px;border-radius:3px;">401</code> 未登录或Token失效，需重新登录获取Token<br>
+                • <code style="background:#fff2f0;color:#ff4d4f;padding:2px 6px;border-radius:3px;">403</code> 权限不足，如开发商/运营无权访问管理员接口<br>
+                • <code style="background:#fff2f0;color:#ff4d4f;padding:2px 6px;border-radius:3px;">500</code> 服务器内部错误<br><br>
+                <b>异常处理：</b><br>
+                • 所有接口返回 <code>code≠200</code> 时，<code>message</code> 字段包含具体失败原因<br>
+                • 未携带Token或Token失效时，返回 <code>401 Unauthorized</code><br>
+                • 角色权限不足时（如普通用户访问管理员接口），返回 <code>403 Forbidden</code><br>
+                • 参数校验失败时，<code>message</code> 返回具体的参数错误提示
+            </div>
+        </details>
+
+        <!-- 1. 发送短信验证码 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">1. 发送短信验证码</span>
+                <span class="tag">公开</span>
+            </div>
+            <div class="api-body">
+                <div class="api-url">POST http://localhost:8000/api/v1/auth/send_sms</div>
+                <div class="section-title">请求参数 (Body JSON) - 可编辑</div>
+                <textarea class="json-input" id="req_1">{
+    "phone": "13800138000",
+    "scene": "register"
+}</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>phone</td><td>string</td><td class="required">是</td><td>手机号，11位，1开头</td></tr>
+                        <tr><td>scene</td><td>string</td><td class="required">是</td><td>场景：register(注册) / login(登录) / reset_password(重置密码)</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400参数错误 / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.expire_seconds</td><td>int</td><td>验证码有效期（秒）</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('POST', '/auth/send_sms', 'req_1', 'res_1')">发送请求</button>
+                    <button class="btn btn-copy" onclick="copyInput('req_1')">复制JSON</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_1"></span></div>
+                    <div class="response-output" id="res_1">点击"发送请求"查看结果</div>
+                </div>
+                <div class="tip">💡 <b>模拟说明：</b>万能验证码 <code>666666</code>，scene可选值：register / login / reset_password</div>
+            </div>
+        </div>
+
+        <!-- 2. 用户注册 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">2. 用户注册</span>
+                <span class="tag">公开</span>
+            </div>
+            <div class="api-body">
+                <div class="api-url">POST http://localhost:8000/api/v1/auth/register</div>
+                <div class="section-title">请求参数 (Body JSON) - 可编辑</div>
+                <textarea class="json-input" id="req_2">{
+    "phone": "13800138000",
+    "sms_code": "666666",
+    "password": "123456",
+    "username": "testuser",
+    "nickname": "测试用户"
+}</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>phone</td><td>string</td><td class="required">是</td><td>手机号，11位，1开头</td></tr>
+                        <tr><td>sms_code</td><td>string</td><td class="required">是</td><td>短信验证码，4-6位（测试用666666）</td></tr>
+                        <tr><td>password</td><td>string</td><td class="required">是</td><td>密码，6-20位</td></tr>
+                        <tr><td>username</td><td>string</td><td class="optional">否</td><td>用户名，4-20位，可用于登录</td></tr>
+                        <tr><td>nickname</td><td>string</td><td class="optional">否</td><td>昵称，不填默认"用户+手机后4位"</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400参数错误(验证码错误/手机号已注册/用户名已存在) / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.user_id</td><td>int</td><td>用户ID</td></tr>
+                        <tr><td>data.phone</td><td>string</td><td>脱敏手机号</td></tr>
+                        <tr><td>data.nickname</td><td>string</td><td>昵称</td></tr>
+                        <tr><td>data.roles</td><td>array</td><td>角色列表</td></tr>
+                        <tr><td>data.token</td><td>string</td><td>登录Token（自动填入Token栏）</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('POST', '/auth/register', 'req_2', 'res_2', true)">发送请求</button>
+                    <button class="btn btn-copy" onclick="copyInput('req_2')">复制JSON</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_2"></span></div>
+                    <div class="response-output" id="res_2">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 3. 用户登录 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">3. 用户登录</span>
+                <span class="tag">公开</span>
+            </div>
+            <div class="api-body">
+                <div class="api-url">POST http://localhost:8000/api/v1/auth/login</div>
+                <div class="section-title">请求参数 (Body JSON) - 可编辑</div>
+                <textarea class="json-input" id="req_3">{
+    "account": "13800138000",
+    "password": "123456",
+    "login_type": "password"
+}</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>account</td><td>string</td><td class="required">是</td><td>账号，手机号或用户名</td></tr>
+                        <tr><td>password</td><td>string</td><td class="optional">条件</td><td>密码，login_type=password时必填</td></tr>
+                        <tr><td>sms_code</td><td>string</td><td class="optional">条件</td><td>验证码，login_type=sms时必填</td></tr>
+                        <tr><td>login_type</td><td>string</td><td class="required">是</td><td>登录方式：password(密码) / sms(短信验证码)</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400参数错误(用户不存在/密码错误/验证码错误/账号已禁用) / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.user_id</td><td>int</td><td>用户ID</td></tr>
+                        <tr><td>data.phone</td><td>string</td><td>脱敏手机号</td></tr>
+                        <tr><td>data.nickname</td><td>string</td><td>昵称</td></tr>
+                        <tr><td>data.user_level</td><td>string</td><td>用户等级：temp(临时)/normal(一般)/verified(实名)</td></tr>
+                        <tr><td>data.roles</td><td>array</td><td>角色列表</td></tr>
+                        <tr><td>data.token</td><td>string</td><td>登录Token（自动填入Token栏）</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('POST', '/auth/login', 'req_3', 'res_3', true)">发送请求</button>
+                    <button class="btn btn-copy" onclick="copyInput('req_3')">复制JSON</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_3"></span></div>
+                    <div class="response-output" id="res_3">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 4. 获取用户信息 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method get">GET</span>
+                <span class="title">4. 获取当前用户信息</span>
+                <span class="tag">需登录</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要Token，将自动从上方Token栏获取</div>
+                <div class="api-url">GET http://localhost:8000/api/v1/user/profile</div>
+                <div class="section-title">请求参数</div>
+                <textarea class="json-input" id="req_4" style="min-height:50px;">无Body参数，Header自动携带Token</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数：</b>
+                    <table>
+                        <tr><th colspan="4">无Body参数，通过Header中的Token识别用户</th></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 401未登录或Token失效 / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.user_id</td><td>int</td><td>用户ID</td></tr>
+                        <tr><td>data.phone</td><td>string</td><td>脱敏手机号</td></tr>
+                        <tr><td>data.username</td><td>string</td><td>用户名</td></tr>
+                        <tr><td>data.nickname</td><td>string</td><td>昵称</td></tr>
+                        <tr><td>data.user_level</td><td>string</td><td>用户等级：temp(临时)/normal(一般)/verified(实名)</td></tr>
+                        <tr><td>data.credit_score</td><td>int</td><td>信用分</td></tr>
+                        <tr><td>data.roles</td><td>array</td><td>角色列表</td></tr>
+                        <tr><td>data.status</td><td>string</td><td>账号状态：active/disabled</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('GET', '/user/profile', null, 'res_4')">发送请求</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_4"></span></div>
+                    <div class="response-output" id="res_4">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 5. 身份证实名认证 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">5. 身份证实名认证</span>
+                <span class="tag">需登录</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要Token，将自动从上方Token栏获取</div>
+                <div class="api-url">POST http://localhost:8000/api/v1/user/verify/idcard</div>
+                <div class="section-title">请求参数 (Body JSON) - 可编辑</div>
+                <textarea class="json-input" id="req_5">{
+    "real_name": "张三",
+    "id_card_no": "460000199001011234"
+}</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数（二要素认证）：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>real_name</td><td>string</td><td class="required">是</td><td>真实姓名</td></tr>
+                        <tr><td>id_card_no</td><td>string</td><td class="required">是</td><td>身份证号，18位</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400认证失败 / 401未登录或Token失效 / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.verification_id</td><td>int</td><td>认证记录ID</td></tr>
+                        <tr><td>data.verify_type</td><td>string</td><td>认证类型：idcard</td></tr>
+                        <tr><td>data.verify_status</td><td>string</td><td>认证状态：approved(通过)</td></tr>
+                        <tr><td>data.user_level</td><td>string</td><td>用户等级变更为：verified</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('POST', '/user/verify/idcard', 'req_5', 'res_5')">发送请求</button>
+                    <button class="btn btn-copy" onclick="copyInput('req_5')">复制JSON</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_5"></span></div>
+                    <div class="response-output" id="res_5">点击"发送请求"查看结果</div>
+                </div>
+                <div class="tip">💡 <b>模拟说明：</b>测试模式直接通过，正式环境需对接阿里云身份证二要素API，真实代码见 <code>app/utils/idcard.py</code> 第64-93行</div>
+            </div>
+        </div>
+
+        <!-- 6. 信用分认证 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">6. 信用分认证</span>
+                <span class="tag">需登录</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要Token，将自动从上方Token栏获取</div>
+                <div class="api-url">POST http://localhost:8000/api/v1/user/verify/credit_score</div>
+                <div class="section-title">请求参数 (Body JSON) - 可编辑</div>
+                <textarea class="json-input" id="req_6">{
+    "credit_source": "zhima"
+}</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数（授权模式）：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>credit_source</td><td>string</td><td class="required">是</td><td>来源：zhima(芝麻信用) / wechat_pay(微信支付分)</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400参数错误 / 401未登录或Token失效 / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.verification_id</td><td>int</td><td>认证记录ID</td></tr>
+                        <tr><td>data.credit_score</td><td>int</td><td>获取到的信用分（系统自动获取）</td></tr>
+                        <tr><td>data.credit_source</td><td>string</td><td>信用分来源</td></tr>
+                        <tr><td>data.verify_status</td><td>string</td><td>认证状态：approved(通过)</td></tr>
+                        <tr><td>data.user_level</td><td>string</td><td>用户等级变更为：verified</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('POST', '/user/verify/credit_score', 'req_6', 'res_6')">发送请求</button>
+                    <button class="btn btn-copy" onclick="copyInput('req_6')">复制JSON</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_6"></span></div>
+                    <div class="response-output" id="res_6">点击"发送请求"查看结果</div>
+                </div>
+                <div class="tip">💡 <b>模拟说明：</b>测试模式使用提交的分数直接通过，正式环境需对接芝麻信用/微信支付分API，真实代码见 <code>app/utils/credit.py</code> 第75-125行</div>
+            </div>
+        </div>
+
+        <!-- 7. 学历认证 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">7. 学历认证</span>
+                <span class="tag">需登录</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要Token，将自动从上方Token栏获取</div>
+                <div class="api-url">POST http://localhost:8000/api/v1/user/verify/education</div>
+                <div class="section-title">请求参数 (Body JSON) - 可编辑</div>
+                <textarea class="json-input" id="req_7">{
+    "verification_code": "123456789012"
+}</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">请求参数（学信网验证码模式）：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>verification_code</td><td>string</td><td class="required">是</td><td>学信网在线验证码（12位），在学信网申请获取</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400验证码无效 / 401未登录或Token失效 / 500服务器错误</td></tr>
+                        <tr><td>message</td><td>string</td><td>提示信息</td></tr>
+                        <tr><td>data.verification_id</td><td>int</td><td>认证记录ID</td></tr>
+                        <tr><td>data.education_level</td><td>string</td><td>学历等级（系统自动获取）</td></tr>
+                        <tr><td>data.education_name</td><td>string</td><td>学历名称：本科/硕士/博士</td></tr>
+                        <tr><td>data.verify_status</td><td>string</td><td>认证状态：approved(通过)</td></tr>
+                        <tr><td>data.user_level</td><td>string</td><td>用户等级变更为：verified</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('POST', '/user/verify/education', 'req_7', 'res_7')">发送请求</button>
+                    <button class="btn btn-copy" onclick="copyInput('req_7')">复制JSON</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_7"></span></div>
+                    <div class="response-output" id="res_7">点击"发送请求"查看结果</div>
+                </div>
+                <div class="tip">💡 <b>模拟说明：</b>测试模式直接通过，正式环境需对接学信网学历认证API，真实代码见 <code>app/utils/education.py</code> 第50-95行</div>
+            </div>
+        </div>
+
+        <h2 style="margin-top:30px;padding-top:20px;border-top:2px solid #1890ff;">🔒 管理员接口</h2>
+        <div class="tip" style="margin-bottom:20px;">⚠️ 以下接口需要<b>管理员Token</b>，普通用户访问将返回403。可用角色：ROLE_ADMIN、ROLE_OPERATOR</div>
+
+        <!-- 8. 用户列表 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method get">GET</span>
+                <span class="title">8. 用户列表</span>
+                <span class="tag" style="background:#ff4d4f;">管理员</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要管理员Token</div>
+                <div class="api-url">GET http://localhost:8000/api/v1/admin/user/list?page=1&page_size=10</div>
+                <div class="section-title">请求参数 (Query)</div>
+                <textarea class="json-input" id="req_8" style="min-height:50px;">page=1, page_size=10, phone=可选, username=可选, user_level=可选, status=可选</textarea>
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">Query参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>page</td><td>int</td><td class="optional">否</td><td>页码，默认1</td></tr>
+                        <tr><td>page_size</td><td>int</td><td class="optional">否</td><td>每页数量，默认20</td></tr>
+                        <tr><td>phone</td><td>string</td><td class="optional">否</td><td>手机号模糊搜索</td></tr>
+                        <tr><td>user_level</td><td>string</td><td class="optional">否</td><td>筛选：temp/normal/verified</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 403权限不足 / 500服务器错误</td></tr>
+                        <tr><td>data.list</td><td>array</td><td>用户列表</td></tr>
+                        <tr><td>data.total</td><td>int</td><td>总数</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequest('GET', '/admin/user/list?page=1&page_size=10', null, 'res_8')">发送请求</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_8"></span></div>
+                    <div class="response-output" id="res_8">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 9. 用户详情 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method get">GET</span>
+                <span class="title">9. 用户详情</span>
+                <span class="tag" style="background:#ff4d4f;">管理员</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要管理员Token</div>
+                <div class="section-title">请求URL（可编辑）</div>
+                <input type="text" class="json-input" id="url_9" value="/admin/user/1" style="min-height:auto;padding:10px;">
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 403权限不足 / 404用户不存在</td></tr>
+                        <tr><td>data.user_id</td><td>int</td><td>用户ID</td></tr>
+                        <tr><td>data.phone</td><td>string</td><td>手机号（管理员可见完整）</td></tr>
+                        <tr><td>data.roles</td><td>array</td><td>角色列表[{role_code, role_name}]</td></tr>
+                        <tr><td>data.real_name</td><td>string</td><td>真实姓名</td></tr>
+                        <tr><td>data.credit_score</td><td>int</td><td>信用分</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequestByUrl('GET', 'url_9', 'res_9')">发送请求</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_9"></span></div>
+                    <div class="response-output" id="res_9">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 10. 分配角色 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method post">POST</span>
+                <span class="title">10. 分配角色</span>
+                <span class="tag" style="background:#ff4d4f;">管理员</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要管理员Token</div>
+                <div class="section-title">请求URL（可编辑）</div>
+                <input type="text" class="json-input" id="url_10" value="/admin/user/1/assign_role?role_code=ROLE_OPERATOR" style="min-height:auto;padding:10px;">
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>user_id</td><td>int</td><td class="required">是</td><td>用户ID (路径参数)</td></tr>
+                        <tr><td>role_code</td><td>string</td><td class="required">是</td><td>角色代码 (Query参数)</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">可用角色：</b>
+                    <table>
+                        <tr><th>角色代码</th><th>角色名称</th></tr>
+                        <tr><td>ROLE_NORMAL_USER</td><td>普通用户(购房者)</td></tr>
+                        <tr><td>ROLE_VERIFIED_USER</td><td>实名用户</td></tr>
+                        <tr><td>ROLE_DEVELOPER</td><td>开发商</td></tr>
+                        <tr><td>ROLE_OPERATOR</td><td>运营人员</td></tr>
+                        <tr><td>ROLE_ADMIN</td><td>管理员</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequestByUrl('POST', 'url_10', 'res_10')">发送请求</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_10"></span></div>
+                    <div class="response-output" id="res_10">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 11. 撤销角色 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method delete">DELETE</span>
+                <span class="title">11. 撤销角色</span>
+                <span class="tag" style="background:#ff4d4f;">管理员</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要管理员Token</div>
+                <div class="section-title">请求URL（可编辑）</div>
+                <input type="text" class="json-input" id="url_11" value="/admin/user/1/remove_role?role_code=ROLE_OPERATOR" style="min-height:auto;padding:10px;">
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>user_id</td><td>int</td><td class="required">是</td><td>用户ID (路径参数)</td></tr>
+                        <tr><td>role_code</td><td>string</td><td class="required">是</td><td>要撤销的角色代码</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 400用户没有该角色 / 403权限不足</td></tr>
+                        <tr><td>data.removed</td><td>bool</td><td>是否撤销成功</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequestByUrl('DELETE', 'url_11', 'res_11')">发送请求</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_11"></span></div>
+                    <div class="response-output" id="res_11">点击"发送请求"查看结果</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 12. 审计日志查询 -->
+        <div class="api-card">
+            <div class="api-header">
+                <span class="method get">GET</span>
+                <span class="title">12. 审计日志查询</span>
+                <span class="tag" style="background:#ff4d4f;">管理员</span>
+            </div>
+            <div class="api-body">
+                <div class="auth-tip">🔐 需要管理员Token</div>
+                <div class="section-title">请求URL（可编辑）</div>
+                <input type="text" class="json-input" id="url_12" value="/admin/audit/logs?page=1&page_size=10" style="min-height:auto;padding:10px;">
+                <details class="field-desc">
+                    <summary>📋 字段说明（点击展开）</summary>
+                    <b style="font-size:12px;color:#666;">Query参数：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>必填</th><th>说明</th></tr>
+                        <tr><td>page</td><td>int</td><td class="optional">否</td><td>页码，默认1</td></tr>
+                        <tr><td>page_size</td><td>int</td><td class="optional">否</td><td>每页数量，默认20</td></tr>
+                        <tr><td>module</td><td>string</td><td class="optional">否</td><td>操作模块筛选（用户认证/用户管理/管理后台等）</td></tr>
+                        <tr><td>username</td><td>string</td><td class="optional">否</td><td>用户名/ID模糊搜索</td></tr>
+                        <tr><td>start_date</td><td>string</td><td class="optional">否</td><td>开始日期 YYYY-MM-DD</td></tr>
+                        <tr><td>end_date</td><td>string</td><td class="optional">否</td><td>结束日期 YYYY-MM-DD</td></tr>
+                    </table>
+                    <b style="font-size:12px;color:#666;margin-top:10px;display:block;">返回字段：</b>
+                    <table>
+                        <tr><th>字段名</th><th>类型</th><th>说明</th></tr>
+                        <tr><td>code</td><td>int</td><td>200成功 / 403权限不足</td></tr>
+                        <tr><td>data.list</td><td>array</td><td>日志列表</td></tr>
+                        <tr><td>data.list[].user_id</td><td>int</td><td>操作用户ID</td></tr>
+                        <tr><td>data.list[].module</td><td>string</td><td>操作模块</td></tr>
+                        <tr><td>data.list[].action</td><td>string</td><td>操作事项</td></tr>
+                        <tr><td>data.list[].ip</td><td>string</td><td>请求IP</td></tr>
+                        <tr><td>data.list[].created_at</td><td>string</td><td>操作时间</td></tr>
+                        <tr><td>data.total</td><td>int</td><td>总数</td></tr>
+                    </table>
+                </details>
+                <div class="btn-row">
+                    <button class="btn btn-send" onclick="sendRequestByUrl('GET', 'url_12', 'res_12')">发送请求</button>
+                </div>
+                <div class="response-block">
+                    <div class="section-title">返回结果 <span class="status" id="status_12"></span></div>
+                    <div class="response-output" id="res_12">点击"发送请求"查看结果</div>
+                </div>
+                <div class="tip">💡 <b>说明：</b>系统自动记录核心操作日志，包括：用户登录注册、实名认证、管理员操作等</div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000/api/v1';
+
+        async function sendRequest(method, path, reqId, resId, saveToken = false) {
+            const resEl = document.getElementById(resId);
+            const statusEl = document.getElementById('status_' + resId.split('_')[1]);
+            resEl.textContent = '请求中...';
+            statusEl.textContent = '';
+            statusEl.className = 'status';
+
+            try {
+                const token = document.getElementById('globalToken').value;
+                const options = {
+                    method,
+                    headers: { 'Content-Type': 'application/json' }
+                };
+                if (token) {
+                    options.headers['Authorization'] = 'Bearer ' + token;
+                }
+                if (reqId && method !== 'GET') {
+                    const body = document.getElementById(reqId).value;
+                    options.body = body;
+                }
+
+                const res = await fetch(API_BASE + path, options);
+                const data = await res.json();
+                
+                resEl.textContent = JSON.stringify(data, null, 2);
+                
+                if (res.ok && data.code === 200) {
+                    statusEl.textContent = '成功 ' + res.status;
+                    statusEl.className = 'status success';
+                    // 自动保存Token
+                    if (saveToken && data.data?.token) {
+                        document.getElementById('globalToken').value = data.data.token;
+                    }
+                } else {
+                    statusEl.textContent = '失败 ' + res.status;
+                    statusEl.className = 'status error';
+                }
+            } catch (err) {
+                resEl.textContent = '请求失败: ' + err.message + '\n\n请确保后端服务已启动: python main.py';
+                statusEl.textContent = '错误';
+                statusEl.className = 'status error';
+            }
+        }
+
+        // 通过URL输入框发送请求
+        async function sendRequestByUrl(method, urlId, resId) {
+            const path = document.getElementById(urlId).value;
+            const resEl = document.getElementById(resId);
+            const statusEl = document.getElementById('status_' + resId.split('_')[1]);
+            resEl.textContent = '请求中...';
+            statusEl.textContent = '';
+            statusEl.className = 'status';
+
+            try {
+                const token = document.getElementById('globalToken').value;
+                const options = {
+                    method,
+                    headers: { 'Content-Type': 'application/json' }
+                };
+                if (token) {
+                    options.headers['Authorization'] = 'Bearer ' + token;
+                }
+
+                const res = await fetch(API_BASE + path, options);
+                const data = await res.json();
+                
+                resEl.textContent = JSON.stringify(data, null, 2);
+                
+                if (res.ok && data.code === 200) {
+                    statusEl.textContent = '成功 ' + res.status;
+                    statusEl.className = 'status success';
+                } else {
+                    statusEl.textContent = '失败 ' + res.status;
+                    statusEl.className = 'status error';
+                }
+            } catch (err) {
+                resEl.textContent = '请求失败: ' + err.message + '\n\n请确保后端服务已启动: python main.py';
+                statusEl.textContent = '错误';
+                statusEl.className = 'status error';
+            }
+        }
+
+        function copyInput(id) {
+            const text = document.getElementById(id).value;
+            navigator.clipboard.writeText(text).then(() => {
+                alert('已复制到剪贴板');
+            });
+        }
+    </script>
+</body>
+</html>
