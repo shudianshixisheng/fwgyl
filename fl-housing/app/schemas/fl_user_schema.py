@@ -24,6 +24,7 @@ class FlLoginRequest(BaseModel):
 
 
 class FlUserProfileUpdate(BaseModel):
+    phone: str = Field(..., pattern=r"^1[3-9]\d{9}$", description="手机号（必填）")
     nickname: Optional[str] = None
     username: Optional[str] = None
 

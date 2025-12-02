@@ -1,0 +1,392 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "陵水住房平台 Day1 API",
+    "version": "1.0.0",
+    "description": "Day1: 用户认证、用户管理、审计日志\n\n## 快速开始\n1. 设置前置URL: http://localhost:8000/api/v1\n2. 调用登录接口获取token\n3. 在全局Header添加: Authorization: Bearer {token}\n\n## 测试账号\n- 管理员: admin / 123456\n- 万能验证码: 666666\n\n## Token配置\n登录成功后复制返回的token，在Apipost【环境设置】或【全局参数】的Header中添加：\n- 参数名: Authorization\n- 参数值: Bearer 你的token"
+  },
+  "servers": [
+    {"url": "http://localhost:8000/api/v1", "description": "本地开发"}
+  ],
+  "paths": {
+    "/auth/register": {
+      "post": {
+        "tags": ["1.认证"],
+        "summary": "用户注册",
+        "description": "新用户注册，需要先发送验证码",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["phone", "password", "sms_code"],
+                "properties": {
+                  "phone": {"type": "string", "example": "13800138000", "description": "手机号"},
+                  "password": {"type": "string", "example": "123456", "description": "密码，6-20位"},
+                  "sms_code": {"type": "string", "example": "666666", "description": "短信验证码，测试用666666"},
+                  "nickname": {"type": "string", "example": "用户昵称", "description": "昵称，可选"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "code": {"type": "integer", "example": 200, "description": "200成功/400参数错误/500服务器错误"},
+                    "message": {"type": "string", "example": "注册成功"},
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "user_id": {"type": "integer", "example": 1, "description": "用户ID"},
+                        "phone": {"type": "string", "example": "138****8000", "description": "脱敏手机号"},
+                        "token": {"type": "string", "description": "JWT令牌"}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/auth/login": {
+      "post": {
+        "tags": ["1.认证"],
+        "summary": "用户登录",
+        "description": "支持密码登录和短信验证码登录",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["account", "login_type"],
+                "properties": {
+                  "account": {"type": "string", "example": "admin", "description": "手机号或用户名"},
+                  "password": {"type": "string", "example": "123456", "description": "密码，login_type=password时必填"},
+                  "sms_code": {"type": "string", "example": "666666", "description": "验证码，login_type=sms时必填"},
+                  "login_type": {"type": "string", "enum": ["password", "sms"], "example": "password", "description": "登录方式: password密码/sms短信"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "code": {"type": "integer", "example": 200},
+                    "message": {"type": "string", "example": "登录成功"},
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "user_id": {"type": "integer", "example": 1, "description": "用户ID"},
+                        "phone": {"type": "string", "example": "138****8888", "description": "脱敏手机号"},
+                        "nickname": {"type": "string", "example": "超级管理员", "description": "昵称"},
+                        "user_level": {"type": "string", "example": "verified", "description": "等级: temp临时/normal一般/verified实名"},
+                        "roles": {"type": "array", "items": {"type": "string"}, "example": ["ROLE_ADMIN"], "description": "角色列表"},
+                        "token": {"type": "string", "description": "JWT令牌，后续请求放Header: Authorization: Bearer {token}"}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/auth/send_sms": {
+      "post": {
+        "tags": ["1.认证"],
+        "summary": "发送短信验证码",
+        "description": "发送短信验证码，测试环境返回666666",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["phone", "scene"],
+                "properties": {
+                  "phone": {"type": "string", "example": "13800138000", "description": "手机号"},
+                  "scene": {"type": "string", "enum": ["register", "login", "reset_password"], "example": "register", "description": "场景: register注册/login登录/reset_password重置密码"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "code": {"type": "integer", "example": 200},
+                    "message": {"type": "string", "example": "验证码已发送"},
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "sms_code": {"type": "string", "example": "666666", "description": "测试环境返回验证码"}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/user/profile": {
+      "get": {
+        "tags": ["2.用户"],
+        "summary": "获取当前用户信息",
+        "description": "需要登录，Header带Token",
+        "security": [{"bearerAuth": []}],
+        "responses": {
+          "200": {
+            "description": "成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "code": {"type": "integer", "example": 200},
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "user_id": {"type": "integer", "description": "用户ID"},
+                        "phone": {"type": "string", "description": "脱敏手机号"},
+                        "nickname": {"type": "string", "description": "昵称"},
+                        "avatar_url": {"type": "string", "description": "头像URL"},
+                        "user_level": {"type": "string", "description": "等级: temp/normal/verified"},
+                        "credit_score": {"type": "integer", "description": "信用分"},
+                        "roles": {"type": "array", "items": {"type": "string"}, "description": "角色列表"},
+                        "verifications": {"type": "object", "description": "认证状态"}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/user/profile/update": {
+      "put": {
+        "tags": ["2.用户"],
+        "summary": "更新用户信息",
+        "description": "更新昵称和用户名，需要登录",
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "phone": {"type": "string", "example": "13800138000", "description": "手机号（必填）"},
+                  "nickname": {"type": "string", "example": "新昵称", "description": "昵称（可选）"},
+                  "username": {"type": "string", "example": "newname", "description": "用户名（可选）"}
+                },
+                "required": ["phone"]
+              }
+            }
+          }
+        },
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/user/verify/idcard": {
+      "post": {
+        "tags": ["2.用户"],
+        "summary": "身份证实名认证",
+        "description": "提交身份证信息进行实名认证",
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["real_name", "id_card_no"],
+                "properties": {
+                  "real_name": {"type": "string", "example": "张三", "description": "真实姓名"},
+                  "id_card_no": {"type": "string", "example": "110101199001011234", "description": "身份证号"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/user/verify/credit_score": {
+      "post": {
+        "tags": ["2.用户"],
+        "summary": "信用分认证",
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["credit_score", "credit_source"],
+                "properties": {
+                  "credit_score": {"type": "integer", "example": 750, "description": "信用分数"},
+                  "credit_source": {"type": "string", "enum": ["zhima", "wechat_pay"], "example": "zhima", "description": "来源: zhima芝麻分/wechat_pay微信支付分"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/user/verify/education": {
+      "post": {
+        "tags": ["2.用户"],
+        "summary": "学历认证",
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["education_level"],
+                "properties": {
+                  "education_level": {"type": "string", "enum": ["bachelor", "master", "doctor"], "example": "bachelor", "description": "学历: bachelor本科/master硕士/doctor博士"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/admin/user/list": {
+      "get": {
+        "tags": ["3.管理员"],
+        "summary": "用户列表",
+        "description": "管理员查看所有用户，支持分页和搜索",
+        "security": [{"bearerAuth": []}],
+        "parameters": [
+          {"name": "page", "in": "query", "schema": {"type": "integer", "default": 1}, "description": "页码"},
+          {"name": "page_size", "in": "query", "schema": {"type": "integer", "default": 20}, "description": "每页数量"},
+          {"name": "keyword", "in": "query", "schema": {"type": "string"}, "description": "搜索关键词(手机号/用户名)"}
+        ],
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/admin/user/{user_id}": {
+      "get": {
+        "tags": ["3.管理员"],
+        "summary": "用户详情",
+        "security": [{"bearerAuth": []}],
+        "parameters": [
+          {"name": "user_id", "in": "path", "required": true, "schema": {"type": "integer"}, "description": "用户ID"}
+        ],
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/admin/user/{user_id}/role/{role_code}": {
+      "post": {
+        "tags": ["3.管理员"],
+        "summary": "分配角色",
+        "description": "给用户分配角色",
+        "security": [{"bearerAuth": []}],
+        "parameters": [
+          {"name": "user_id", "in": "path", "required": true, "schema": {"type": "integer"}, "description": "用户ID"},
+          {"name": "role_code", "in": "path", "required": true, "schema": {"type": "string"}, "description": "角色编码: ROLE_ADMIN/ROLE_DEVELOPER等"}
+        ],
+        "responses": {"200": {"description": "成功"}}
+      },
+      "delete": {
+        "tags": ["3.管理员"],
+        "summary": "撤销角色",
+        "security": [{"bearerAuth": []}],
+        "parameters": [
+          {"name": "user_id", "in": "path", "required": true, "schema": {"type": "integer"}, "description": "用户ID"},
+          {"name": "role_code", "in": "path", "required": true, "schema": {"type": "string"}, "description": "角色编码"}
+        ],
+        "responses": {"200": {"description": "成功"}}
+      }
+    },
+    "/admin/audit/logs": {
+      "get": {
+        "tags": ["4.审计"],
+        "summary": "查询审计日志",
+        "description": "管理员查看操作日志",
+        "security": [{"bearerAuth": []}],
+        "parameters": [
+          {"name": "page", "in": "query", "schema": {"type": "integer", "default": 1}, "description": "页码"},
+          {"name": "page_size", "in": "query", "schema": {"type": "integer", "default": 20}, "description": "每页数量"},
+          {"name": "module", "in": "query", "schema": {"type": "string"}, "description": "模块筛选"},
+          {"name": "username", "in": "query", "schema": {"type": "string"}, "description": "用户名模糊搜索"},
+          {"name": "start_date", "in": "query", "schema": {"type": "string"}, "description": "开始日期 YYYY-MM-DD"},
+          {"name": "end_date", "in": "query", "schema": {"type": "string"}, "description": "结束日期 YYYY-MM-DD"}
+        ],
+        "responses": {
+          "200": {
+            "description": "成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "code": {"type": "integer", "example": 200},
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "list": {"type": "array", "description": "日志列表"},
+                        "total": {"type": "integer", "description": "总数"},
+                        "page": {"type": "integer"},
+                        "page_size": {"type": "integer"}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/admin/audit/modules": {
+      "get": {
+        "tags": ["4.审计"],
+        "summary": "获取模块列表",
+        "description": "获取所有可筛选的模块",
+        "security": [{"bearerAuth": []}],
+        "responses": {"200": {"description": "成功"}}
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "bearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT",
+        "description": "登录后获取token，格式: Bearer {token}"
+      }
+    }
+  }
+}

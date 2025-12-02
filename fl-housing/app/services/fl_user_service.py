@@ -97,16 +97,20 @@ class FlUserService:
         user = db.query(FlUser).filter(FlUser.id == user_id).first()
         if not user:
             raise FlNotFound("用户不存在")
+        # 验证手机号是否与当前用户匹配
+        if req.phone != user.phone:
+            # 检查新手机号是否已被占用
+            if db.query(FlUser).filter(FlUser.phone == req.phone, FlUser.id != user_id).first():
+                raise FlBadRequest("该手机号已被其他用户使用")
+            user.phone = req.phone
         if req.nickname:
             user.nickname = req.nickname
-        if req.avatar_url:
-            user.avatar_url = req.avatar_url
         if req.username:
             if db.query(FlUser).filter(FlUser.username == req.username, FlUser.id != user_id).first():
                 raise FlBadRequest("用户名已存在")
             user.username = req.username
         db.commit()
-        return {"user_id": user_id, "nickname": user.nickname, "username": user.username}
+        return {"user_id": user_id, "phone": user.phone, "nickname": user.nickname, "username": user.username}
     
     def verify_idcard(self, db: Session, user_id: int, req: FlIdcardVerifyRequest) -> dict:
         """
