@@ -1,0 +1,60 @@
+{
+  "images": [
+    {
+      "src": "https://images.unsplash.com/photo-1558117338-aa433feb1c62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMGJlYWNoJTIwcmVzb3J0fGVufDF8fHx8MTc2NDM3NTUwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "alt": "陵水好房码 · 极速现房交易",
+      "width": 1080,
+      "height": 717
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1594873604892-b599f847e859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhcGFydG1lbnQlMjBpbnRlcmlvcnxlbnwxfHx8fDE3NjQzMTc0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "alt": "100套白名单房源",
+      "width": 1080,
+      "height": 1620
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1623051786509-57224cdc43e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjByZXNpZGVudGlhbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc2NDQwMDc2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "alt": "购房补贴直抵首付",
+      "width": 1080,
+      "height": 792
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1666243035395-9b7853cecc05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxIYWluYW4lMjBlZHVjYXRpb24lMjBjYW1wdXN8ZW58MXx8fHwxNzY0NDE4MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "alt": "陵水产业发展 · 黎安国际教育创新试验区",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1716796484009-b4540dd3ab6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxDaGluYSUyMGZyZWUlMjB0cmFkZSUyMHBvcnR8ZW58MXx8fHwxNzY0NDE4MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "alt": "海南自贸港优惠政策",
+      "width": 1080,
+      "height": 1620
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1631535152690-ba1a85229136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMGJlYWNoJTIwdG91cmlzbXxlbnwxfHx8fDE3NjQ0MTgzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "alt": "陵水旅游 · 热带滨海度假胜地",
+      "width": 1080,
+      "height": 720
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1761677671115-3c6c15d2ed0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxDaGluZXNlJTIwZXRobmljJTIwY3VsdHVyZXxlbnwxfHx8fDE3NjQ0MTgzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "alt": "陵水人文 · 黎族文化传承",
+      "width": 1080,
+      "height": 1620
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1755742319537-449f661a3190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxDaGluZXNlJTIwc2VhZm9vZCUyMGN1aXNpbmV8ZW58MXx8fHwxNzY0NDE4Mzk0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "alt": "陵水美食 · 地道海南风味",
+      "width": 1080,
+      "height": 720
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1557813282-bcd50093e38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlJTIwZGV2ZWxvcG1lbnR8ZW58MXx8fHwxNzY0MzgxNzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "alt": "优质房企入驻 · 品牌保障",
+      "width": 1080,
+      "height": 1618
+    }
+  ],
+  "backgrounds": [],
+  "svgCount": 38
+}

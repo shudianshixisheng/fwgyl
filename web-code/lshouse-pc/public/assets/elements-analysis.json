@@ -1,0 +1,7686 @@
+[
+  {
+    "tag": "DIV",
+    "id": "container",
+    "className": "",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册\n房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 1080
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册\n房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 1080
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册\n房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 1080
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "tailwind css-myl2ny css-exq74d",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册\n房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 1080
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "min-h-screen bg-gray-50 flex flex-col",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册\n房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 2702
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklch(0.985 0.002 247.839)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "HEADER",
+    "id": "",
+    "className": "bg-white shadow-sm sticky top-0 z-50",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 64
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 64
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center justify-between h-16",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议\n登录/注册",
+    "rect": {
+      "x": 32,
+      "y": 0,
+      "width": 1216,
+      "height": 64
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-8",
+    "text": "陵水好房码\n极速现房交易平台\n首页\n房源\n政策补贴\n企业入驻\n投诉建议",
+    "rect": {
+      "x": 32,
+      "y": 12,
+      "width": 744,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center cursor-pointer",
+    "text": "陵水好房码\n极速现房交易平台",
+    "rect": {
+      "x": 32,
+      "y": 12,
+      "width": 140,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 32px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 32,
+      "y": 16,
+      "width": 32,
+      "height": 32
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "ml-3",
+    "text": "陵水好房码\n极速现房交易平台",
+    "rect": {
+      "x": 76,
+      "y": 12,
+      "width": 96,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-gray-900",
+    "text": "陵水好房码",
+    "rect": {
+      "x": 76,
+      "y": 12,
+      "width": 96,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-xs text-gray-500",
+    "text": "极速现房交易平台",
+    "rect": {
+      "x": 76,
+      "y": 36,
+      "width": 96,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "NAV",
+    "id": "",
+    "className": "hidden md:flex space-x-6",
+    "text": "首页\n房源\n政策补贴\n企业入驻\n投诉建议",
+    "rect": {
+      "x": 204,
+      "y": 12,
+      "width": 572,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "flex items-center space-x-1 px-3 py-2 rounded-md transition-colors text-blue-600 bg-blue-50",
+    "text": "首页",
+    "rect": {
+      "x": 204,
+      "y": 12,
+      "width": 76,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.97 0.014 254.604)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "8px 12px",
+      "margin": "0px 24px 0px 0px",
+      "borderRadius": "8px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 216,
+      "y": 24,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 4px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "flex items-center space-x-1 px-3 py-2 rounded-md transition-colors text-gray-700 hover:text-blue-600 hover:bg-gray-50",
+    "text": "房源",
+    "rect": {
+      "x": 304,
+      "y": 12,
+      "width": 76,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "8px 12px",
+      "margin": "0px 24px 0px 0px",
+      "borderRadius": "8px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 316,
+      "y": 24,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 4px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "flex items-center space-x-1 px-3 py-2 rounded-md transition-colors text-gray-700 hover:text-blue-600 hover:bg-gray-50",
+    "text": "政策补贴",
+    "rect": {
+      "x": 404,
+      "y": 12,
+      "width": 108,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "8px 12px",
+      "margin": "0px 24px 0px 0px",
+      "borderRadius": "8px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 416,
+      "y": 24,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 4px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "flex items-center space-x-1 px-3 py-2 rounded-md transition-colors text-gray-700 hover:text-blue-600 hover:bg-gray-50",
+    "text": "企业入驻",
+    "rect": {
+      "x": 536,
+      "y": 12,
+      "width": 108,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "8px 12px",
+      "margin": "0px 24px 0px 0px",
+      "borderRadius": "8px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 548,
+      "y": 24,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 4px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "flex items-center space-x-1 px-3 py-2 rounded-md transition-colors text-gray-700 hover:text-blue-600 hover:bg-gray-50",
+    "text": "投诉建议",
+    "rect": {
+      "x": 668,
+      "y": 12,
+      "width": 108,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "8px 12px",
+      "margin": "0px",
+      "borderRadius": "8px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 680,
+      "y": 24,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 4px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-4",
+    "text": "登录/注册",
+    "rect": {
+      "x": 1121.15625,
+      "y": 12,
+      "width": 126.84375,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "flex items-center space-x-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors",
+    "text": "登录/注册",
+    "rect": {
+      "x": 1121.15625,
+      "y": 12,
+      "width": 126.84375,
+      "height": 40
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "8px 16px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 1137.15625,
+      "y": 24,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "MAIN",
+    "id": "",
+    "className": "flex-1",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源\n房源推广\n购房补贴直抵首",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 2193
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "min-h-screen",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源\n房源推广\n购房补贴直抵首",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 2193
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "relative h-[500px] overflow-hidden",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源\n房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源\n房源推广\n购房补贴直抵首",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "房源推广\n陵水好房码 · 极速现房交易\n\n两保两真 · 一码勿扰 · 定金托管\n\n立即查看房源",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 567.96875,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "房源推广",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 567.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "房源推广",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "陵水好房码 · 极速现房交易",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 567.96875,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "两保两真 · 一码勿扰 · 定金托管",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 567.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "立即查看房源",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-100",
+    "text": "房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "房源推广\n100套白名单房源\n\n政府信用背书 · 真实房源保障\n\n立即查看房源",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 372.453125,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "房源推广",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 372.453125,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "房源推广",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "100套白名单房源",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 372.453125,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "政府信用背书 · 真实房源保障",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 372.453125,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "立即查看房源",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "房源推广\n购房补贴直抵首付\n\n岛外客户 · 人才群体专享优惠\n\n查看补贴政策",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "房源推广\n购房补贴直抵首付\n\n岛外客户 · 人才群体专享优惠\n\n查看补贴政策",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "房源推广\n购房补贴直抵首付\n\n岛外客户 · 人才群体专享优惠\n\n查看补贴政策",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "房源推广\n购房补贴直抵首付\n\n岛外客户 · 人才群体专享优惠\n\n查看补贴政策",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 384,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "房源推广",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 384,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "房源推广",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "购房补贴直抵首付",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 384,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "岛外客户 · 人才群体专享优惠",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 384,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "查看补贴政策",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "产业发展\n陵水产业发展 · 黎安国际教育创新试验区\n\n国际教育 · 科技创新 · 热带特色农业 · 文旅融合\n\n了解更多",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "产业发展\n陵水产业发展 · 黎安国际教育创新试验区\n\n国际教育 · 科技创新 · 热带特色农业 · 文旅融合\n\n了解更多",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "产业发展\n陵水产业发展 · 黎安国际教育创新试验区\n\n国际教育 · 科技创新 · 热带特色农业 · 文旅融合\n\n了解更多",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "产业发展\n陵水产业发展 · 黎安国际教育创新试验区\n\n国际教育 · 科技创新 · 热带特色农业 · 文旅融合\n\n了解更多",
+    "rect": {
+      "x": 32,
+      "y": 184,
+      "width": 672,
+      "height": 260
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "产业发展",
+    "rect": {
+      "x": 32,
+      "y": 184,
+      "width": 672,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "产业发展",
+    "rect": {
+      "x": 32,
+      "y": 184,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "陵水产业发展 · 黎安国际教育创新试验区",
+    "rect": {
+      "x": 32,
+      "y": 224,
+      "width": 672,
+      "height": 96
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "国际教育 · 科技创新 · 热带特色农业 · 文旅融合",
+    "rect": {
+      "x": 32,
+      "y": 336,
+      "width": 672,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "了解更多",
+    "rect": {
+      "x": 32,
+      "y": 396,
+      "width": 156,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 136,
+      "y": 410,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "政策支持\n海南自贸港优惠政策\n\n购房补贴 · 人才引进 · 税收优惠 · 落户便利\n\n查看政策详情",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "政策支持\n海南自贸港优惠政策\n\n购房补贴 · 人才引进 · 税收优惠 · 落户便利\n\n查看政策详情",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "政策支持\n海南自贸港优惠政策\n\n购房补贴 · 人才引进 · 税收优惠 · 落户便利\n\n查看政策详情",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "政策支持\n海南自贸港优惠政策\n\n购房补贴 · 人才引进 · 税收优惠 · 落户便利\n\n查看政策详情",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 432,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "政策支持",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 432,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "政策支持",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "海南自贸港优惠政策",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 432,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "购房补贴 · 人才引进 · 税收优惠 · 落户便利",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 432,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "查看政策详情",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "旅游推荐\n陵水旅游 · 热带滨海度假胜地\n\n清水湾 · 分界洲岛 · 南湾猴岛 · 椰子岛\n\n探索周边房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "旅游推荐\n陵水旅游 · 热带滨海度假胜地\n\n清水湾 · 分界洲岛 · 南湾猴岛 · 椰子岛\n\n探索周边房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "旅游推荐\n陵水旅游 · 热带滨海度假胜地\n\n清水湾 · 分界洲岛 · 南湾猴岛 · 椰子岛\n\n探索周边房源",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "旅游推荐\n陵水旅游 · 热带滨海度假胜地\n\n清水湾 · 分界洲岛 · 南湾猴岛 · 椰子岛\n\n探索周边房源",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 615.96875,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "旅游推荐",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 615.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "旅游推荐",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "陵水旅游 · 热带滨海度假胜地",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 615.96875,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "清水湾 · 分界洲岛 · 南湾猴岛 · 椰子岛",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 615.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "探索周边房源",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "人文介绍\n陵水人文 · 黎族文化传承\n\n非遗文化 · 黎锦技艺 · 民俗风情 · 历史古迹\n\n了解更多",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "人文介绍\n陵水人文 · 黎族文化传承\n\n非遗文化 · 黎锦技艺 · 民俗风情 · 历史古迹\n\n了解更多",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "人文介绍\n陵水人文 · 黎族文化传承\n\n非遗文化 · 黎锦技艺 · 民俗风情 · 历史古迹\n\n了解更多",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "人文介绍\n陵水人文 · 黎族文化传承\n\n非遗文化 · 黎锦技艺 · 民俗风情 · 历史古迹\n\n了解更多",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 519.96875,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "人文介绍",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 519.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "人文介绍",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "陵水人文 · 黎族文化传承",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 519.96875,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "非遗文化 · 黎锦技艺 · 民俗风情 · 历史古迹",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 519.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "了解更多",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 156,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 136,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "美食推荐\n陵水美食 · 地道海南风味\n\n陵水酸粉 · 疍家海鲜 · 椰子饭 · 清补凉\n\n探索美食周边",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "美食推荐\n陵水美食 · 地道海南风味\n\n陵水酸粉 · 疍家海鲜 · 椰子饭 · 清补凉\n\n探索美食周边",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "美食推荐\n陵水美食 · 地道海南风味\n\n陵水酸粉 · 疍家海鲜 · 椰子饭 · 清补凉\n\n探索美食周边",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "美食推荐\n陵水美食 · 地道海南风味\n\n陵水酸粉 · 疍家海鲜 · 椰子饭 · 清补凉\n\n探索美食周边",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 519.96875,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "美食推荐",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 519.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "美食推荐",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "陵水美食 · 地道海南风味",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 519.96875,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "陵水酸粉 · 疍家海鲜 · 椰子饭 · 清补凉",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 519.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "探索美食周边",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 transition-opacity duration-1000 opacity-0",
+    "text": "房企入驻\n优质房企入驻 · 品牌保障\n\n碧桂园 · 雅居乐 · 富力地产 · 融创中国\n\n查看房企项目",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "IMG",
+    "id": "",
+    "className": "w-full h-full object-cover",
+    "text": "",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30",
+    "text": "房企入驻\n优质房企入驻 · 品牌保障\n\n碧桂园 · 雅居乐 · 富力地产 · 融创中国\n\n查看房企项目",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center",
+    "text": "房企入驻\n优质房企入驻 · 品牌保障\n\n碧桂园 · 雅居乐 · 富力地产 · 融创中国\n\n查看房企项目",
+    "rect": {
+      "x": 0,
+      "y": 64,
+      "width": 1280,
+      "height": 500
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white max-w-2xl",
+    "text": "房企入驻\n优质房企入驻 · 品牌保障\n\n碧桂园 · 雅居乐 · 富力地产 · 融创中国\n\n查看房企项目",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 519.96875,
+      "height": 212
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-3",
+    "text": "房企入驻",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 519.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm",
+    "text": "房企入驻",
+    "rect": {
+      "x": 32,
+      "y": 208,
+      "width": 80,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "4px 12px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H1",
+    "id": "",
+    "className": "text-5xl mb-4",
+    "text": "优质房企入驻 · 品牌保障",
+    "rect": {
+      "x": 32,
+      "y": 248,
+      "width": 519.96875,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-200 mb-8",
+    "text": "碧桂园 · 雅居乐 · 富力地产 · 融创中国",
+    "rect": {
+      "x": 32,
+      "y": 312,
+      "width": 519.96875,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.928 0.006 264.531)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2",
+    "text": "查看房企项目",
+    "rect": {
+      "x": 32,
+      "y": 372,
+      "width": 188,
+      "height": 48
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 168,
+      "y": 386,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 bg-white/20 hover:bg-white/30 backdrop-blur-sm rounded-full flex items-center justify-center transition-all group",
+    "text": "",
+    "rect": {
+      "x": 16,
+      "y": 290,
+      "width": 48,
+      "height": 48
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 28,
+      "y": 302,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 bg-white/20 hover:bg-white/30 backdrop-blur-sm rounded-full flex items-center justify-center transition-all group",
+    "text": "",
+    "rect": {
+      "x": 1216,
+      "y": 290,
+      "width": 48,
+      "height": 48
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 1228,
+      "y": 302,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "absolute bottom-8 left-1/2 transform -translate-x-1/2 flex space-x-2",
+    "text": "",
+    "rect": {
+      "x": 560,
+      "y": 524,
+      "width": 160,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 560,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white w-8",
+    "text": "",
+    "rect": {
+      "x": 576,
+      "y": 524,
+      "width": 32,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 616,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 632,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 648,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 664,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 680,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 696,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 8px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-2 h-2 rounded-full transition-all bg-white/50",
+    "text": "",
+    "rect": {
+      "x": 712,
+      "y": 524,
+      "width": 8,
+      "height": 8
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "py-16 bg-white",
+    "text": "三大核心功能\n\n政府信用背书 + 数字化工具赋能 + 市场化规则约束\n\n两保两真\n\n保真实房源/保交付质量\n\n真现房/真价格\n\n一码勿扰\n\n隐私保护/精准匹配\n\n企业微信专属沟通\n\n定金托管\n\n安全可",
+    "rect": {
+      "x": 0,
+      "y": 564,
+      "width": 1280,
+      "height": 490
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "64px 0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
+    "text": "三大核心功能\n\n政府信用背书 + 数字化工具赋能 + 市场化规则约束\n\n两保两真\n\n保真实房源/保交付质量\n\n真现房/真价格\n\n一码勿扰\n\n隐私保护/精准匹配\n\n企业微信专属沟通\n\n定金托管\n\n安全可",
+    "rect": {
+      "x": 0,
+      "y": 628,
+      "width": 1280,
+      "height": 362
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-center mb-12",
+    "text": "三大核心功能\n\n政府信用背书 + 数字化工具赋能 + 市场化规则约束",
+    "rect": {
+      "x": 32,
+      "y": 628,
+      "width": 1216,
+      "height": 80
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 48px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H2",
+    "id": "",
+    "className": "text-3xl text-gray-900 mb-4",
+    "text": "三大核心功能",
+    "rect": {
+      "x": 32,
+      "y": 628,
+      "width": 1216,
+      "height": 36
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-600",
+    "text": "政府信用背书 + 数字化工具赋能 + 市场化规则约束",
+    "rect": {
+      "x": 32,
+      "y": 680,
+      "width": 1216,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.446 0.03 256.802)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "grid md:grid-cols-3 gap-8",
+    "text": "两保两真\n\n保真实房源/保交付质量\n\n真现房/真价格\n\n一码勿扰\n\n隐私保护/精准匹配\n\n企业微信专属沟通\n\n定金托管\n\n安全可退/24小时原路返\n\n住建局/房协监管",
+    "rect": {
+      "x": 32,
+      "y": 756,
+      "width": 1216,
+      "height": 234
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "32px",
+      "display": "grid",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "p-8 bg-gradient-to-br from-gray-50 to-white border border-gray-200 rounded-xl hover:shadow-lg transition-shadow",
+    "text": "两保两真\n\n保真实房源/保交付质量\n\n真现房/真价格",
+    "rect": {
+      "x": 32,
+      "y": 756,
+      "width": 384,
+      "height": 234
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "32px",
+      "margin": "0px",
+      "borderRadius": "14px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-14 h-14 rounded-lg bg-blue-100 flex items-center justify-center mb-6",
+    "text": "",
+    "rect": {
+      "x": 65,
+      "y": 789,
+      "width": 56,
+      "height": 56
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 24px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 79,
+      "y": 803,
+      "width": 28,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-xl text-gray-900 mb-2",
+    "text": "两保两真",
+    "rect": {
+      "x": 65,
+      "y": 869,
+      "width": 318,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-gray-600 mb-2",
+    "text": "保真实房源/保交付质量",
+    "rect": {
+      "x": 65,
+      "y": 905,
+      "width": 318,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.446 0.03 256.802)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-sm text-gray-500",
+    "text": "真现房/真价格",
+    "rect": {
+      "x": 65,
+      "y": 937,
+      "width": 318,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "p-8 bg-gradient-to-br from-gray-50 to-white border border-gray-200 rounded-xl hover:shadow-lg transition-shadow",
+    "text": "一码勿扰\n\n隐私保护/精准匹配\n\n企业微信专属沟通",
+    "rect": {
+      "x": 448,
+      "y": 756,
+      "width": 384,
+      "height": 234
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "32px",
+      "margin": "0px",
+      "borderRadius": "14px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-14 h-14 rounded-lg bg-green-100 flex items-center justify-center mb-6",
+    "text": "",
+    "rect": {
+      "x": 481,
+      "y": 789,
+      "width": 56,
+      "height": 56
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklch(0.962 0.044 156.743)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 24px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 495,
+      "y": 803,
+      "width": 28,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.627 0.194 149.214)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-xl text-gray-900 mb-2",
+    "text": "一码勿扰",
+    "rect": {
+      "x": 481,
+      "y": 869,
+      "width": 318,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-gray-600 mb-2",
+    "text": "隐私保护/精准匹配",
+    "rect": {
+      "x": 481,
+      "y": 905,
+      "width": 318,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.446 0.03 256.802)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-sm text-gray-500",
+    "text": "企业微信专属沟通",
+    "rect": {
+      "x": 481,
+      "y": 937,
+      "width": 318,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "p-8 bg-gradient-to-br from-gray-50 to-white border border-gray-200 rounded-xl hover:shadow-lg transition-shadow",
+    "text": "定金托管\n\n安全可退/24小时原路返\n\n住建局/房协监管",
+    "rect": {
+      "x": 864,
+      "y": 756,
+      "width": 384,
+      "height": 234
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "32px",
+      "margin": "0px",
+      "borderRadius": "14px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-14 h-14 rounded-lg bg-purple-100 flex items-center justify-center mb-6",
+    "text": "",
+    "rect": {
+      "x": 897,
+      "y": 789,
+      "width": 56,
+      "height": 56
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 24px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 911,
+      "y": 803,
+      "width": 28,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.558 0.288 302.321)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-xl text-gray-900 mb-2",
+    "text": "定金托管",
+    "rect": {
+      "x": 897,
+      "y": 869,
+      "width": 318,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-gray-600 mb-2",
+    "text": "安全可退/24小时原路返",
+    "rect": {
+      "x": 897,
+      "y": 905,
+      "width": 318,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.446 0.03 256.802)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-sm text-gray-500",
+    "text": "住建局/房协监管",
+    "rect": {
+      "x": 897,
+      "y": 937,
+      "width": 318,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "py-16 bg-gradient-to-br from-blue-600 to-blue-700",
+    "text": "100+\n套\n\n白名单房源\n\n6000\n万元\n\n目标成交额\n\n90\n%\n\n用户满意度\n\n3000+\n人\n\n平台日活",
+    "rect": {
+      "x": 0,
+      "y": 1054,
+      "width": 1280,
+      "height": 201
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "64px 0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
+    "text": "100+\n套\n\n白名单房源\n\n6000\n万元\n\n目标成交额\n\n90\n%\n\n用户满意度\n\n3000+\n人\n\n平台日活",
+    "rect": {
+      "x": 0,
+      "y": 1118,
+      "width": 1280,
+      "height": 73
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "grid md:grid-cols-4 gap-8",
+    "text": "100+\n套\n\n白名单房源\n\n6000\n万元\n\n目标成交额\n\n90\n%\n\n用户满意度\n\n3000+\n人\n\n平台日活",
+    "rect": {
+      "x": 32,
+      "y": 1118,
+      "width": 1216,
+      "height": 73
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "32px",
+      "display": "grid",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-center text-white",
+    "text": "100+\n套\n\n白名单房源",
+    "rect": {
+      "x": 32,
+      "y": 1118,
+      "width": 280,
+      "height": 73
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-baseline justify-center mb-2",
+    "text": "100+\n套",
+    "rect": {
+      "x": 32,
+      "y": 1118,
+      "width": 280,
+      "height": 41
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "baseline"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-4xl",
+    "text": "100+",
+    "rect": {
+      "x": 114.96875,
+      "y": 1118,
+      "width": 90.046875,
+      "height": 40
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "36px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-xl ml-1",
+    "text": "套",
+    "rect": {
+      "x": 209.015625,
+      "y": 1131,
+      "width": 20,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 0px 4px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-blue-100",
+    "text": "白名单房源",
+    "rect": {
+      "x": 32,
+      "y": 1167,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.932 0.032 255.585)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-center text-white",
+    "text": "6000\n万元\n\n目标成交额",
+    "rect": {
+      "x": 344,
+      "y": 1118,
+      "width": 280,
+      "height": 73
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-baseline justify-center mb-2",
+    "text": "6000\n万元",
+    "rect": {
+      "x": 344,
+      "y": 1118,
+      "width": 280,
+      "height": 41
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "baseline"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-4xl",
+    "text": "6000",
+    "rect": {
+      "x": 419.765625,
+      "y": 1118,
+      "width": 84.453125,
+      "height": 40
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "36px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-xl ml-1",
+    "text": "万元",
+    "rect": {
+      "x": 508.21875,
+      "y": 1131,
+      "width": 40,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 0px 4px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-blue-100",
+    "text": "目标成交额",
+    "rect": {
+      "x": 344,
+      "y": 1167,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.932 0.032 255.585)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-center text-white",
+    "text": "90\n%\n\n用户满意度",
+    "rect": {
+      "x": 656,
+      "y": 1118,
+      "width": 280,
+      "height": 73
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-baseline justify-center mb-2",
+    "text": "90\n%",
+    "rect": {
+      "x": 656,
+      "y": 1118,
+      "width": 280,
+      "height": 41
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "baseline"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-4xl",
+    "text": "90",
+    "rect": {
+      "x": 763.984375,
+      "y": 1118,
+      "width": 42.234375,
+      "height": 40
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "36px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-xl ml-1",
+    "text": "%",
+    "rect": {
+      "x": 810.21875,
+      "y": 1131,
+      "width": 17.796875,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 0px 4px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-blue-100",
+    "text": "用户满意度",
+    "rect": {
+      "x": 656,
+      "y": 1167,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.932 0.032 255.585)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-center text-white",
+    "text": "3000+\n人\n\n平台日活",
+    "rect": {
+      "x": 968,
+      "y": 1118,
+      "width": 280,
+      "height": 73
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-baseline justify-center mb-2",
+    "text": "3000+\n人",
+    "rect": {
+      "x": 968,
+      "y": 1118,
+      "width": 280,
+      "height": 41
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 8px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "baseline"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-4xl",
+    "text": "3000+",
+    "rect": {
+      "x": 1040.421875,
+      "y": 1118,
+      "width": 111.15625,
+      "height": 40
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "36px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-xl ml-1",
+    "text": "人",
+    "rect": {
+      "x": 1155.578125,
+      "y": 1131,
+      "width": 20,
+      "height": 28
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 0px 4px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-blue-100",
+    "text": "平台日活",
+    "rect": {
+      "x": 968,
+      "y": 1167,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.932 0.032 255.585)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "py-16 bg-gray-50",
+    "text": "平台优势\n\n海南自贸港现房交易标杆\n\n住建局审核认证\n房协线下核查\nVR实景看房\n精准地图定位\n购房流程\n1\n注册生成\"陵水好房码\"\n2\n浏览白名单认证房源\n3\n企业微信无骚扰沟通\n4\n定金托管安全交",
+    "rect": {
+      "x": 0,
+      "y": 1255,
+      "width": 1280,
+      "height": 712
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "oklch(0.985 0.002 247.839)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "64px 0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
+    "text": "平台优势\n\n海南自贸港现房交易标杆\n\n住建局审核认证\n房协线下核查\nVR实景看房\n精准地图定位\n购房流程\n1\n注册生成\"陵水好房码\"\n2\n浏览白名单认证房源\n3\n企业微信无骚扰沟通\n4\n定金托管安全交",
+    "rect": {
+      "x": 0,
+      "y": 1319,
+      "width": 1280,
+      "height": 584
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-center mb-12",
+    "text": "平台优势\n\n海南自贸港现房交易标杆",
+    "rect": {
+      "x": 32,
+      "y": 1319,
+      "width": 1216,
+      "height": 80
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 48px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H2",
+    "id": "",
+    "className": "text-3xl text-gray-900 mb-4",
+    "text": "平台优势",
+    "rect": {
+      "x": 32,
+      "y": 1319,
+      "width": 1216,
+      "height": 36
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-600",
+    "text": "海南自贸港现房交易标杆",
+    "rect": {
+      "x": 32,
+      "y": 1371,
+      "width": 1216,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.446 0.03 256.802)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
+    "text": "住建局审核认证\n房协线下核查\nVR实景看房\n精准地图定位",
+    "rect": {
+      "x": 32,
+      "y": 1447,
+      "width": 1216,
+      "height": 74
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "24px",
+      "display": "grid",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3 p-6 bg-white rounded-lg border border-gray-200",
+    "text": "住建局审核认证",
+    "rect": {
+      "x": 32,
+      "y": 1447,
+      "width": 286,
+      "height": 74
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "24px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 57,
+      "y": 1472,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-900",
+    "text": "住建局审核认证",
+    "rect": {
+      "x": 93,
+      "y": 1472,
+      "width": 112,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3 p-6 bg-white rounded-lg border border-gray-200",
+    "text": "房协线下核查",
+    "rect": {
+      "x": 342,
+      "y": 1447,
+      "width": 286,
+      "height": 74
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "24px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 367,
+      "y": 1472,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-900",
+    "text": "房协线下核查",
+    "rect": {
+      "x": 403,
+      "y": 1472,
+      "width": 96,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3 p-6 bg-white rounded-lg border border-gray-200",
+    "text": "VR实景看房",
+    "rect": {
+      "x": 652,
+      "y": 1447,
+      "width": 286,
+      "height": 74
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "24px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 677,
+      "y": 1472,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-900",
+    "text": "VR实景看房",
+    "rect": {
+      "x": 713,
+      "y": 1472,
+      "width": 85.265625,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3 p-6 bg-white rounded-lg border border-gray-200",
+    "text": "精准地图定位",
+    "rect": {
+      "x": 962,
+      "y": 1447,
+      "width": 286,
+      "height": 74
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "24px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 987,
+      "y": 1472,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-900",
+    "text": "精准地图定位",
+    "rect": {
+      "x": 1023,
+      "y": 1472,
+      "width": 96,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mt-12 p-8 bg-white rounded-xl border border-gray-200",
+    "text": "购房流程\n1\n注册生成\"陵水好房码\"\n2\n浏览白名单认证房源\n3\n企业微信无骚扰沟通\n4\n定金托管安全交易\n5\n申领购房补贴\n6\n完成现房交付\n应用场景\n融媒体引流：抖音/小红书推广\n无骚扰询价：企业",
+    "rect": {
+      "x": 32,
+      "y": 1569,
+      "width": 1216,
+      "height": 334
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "32px",
+      "margin": "48px 0px 0px",
+      "borderRadius": "14px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "grid md:grid-cols-2 gap-8",
+    "text": "购房流程\n1\n注册生成\"陵水好房码\"\n2\n浏览白名单认证房源\n3\n企业微信无骚扰沟通\n4\n定金托管安全交易\n5\n申领购房补贴\n6\n完成现房交付\n应用场景\n融媒体引流：抖音/小红书推广\n无骚扰询价：企业",
+    "rect": {
+      "x": 65,
+      "y": 1602,
+      "width": 1150,
+      "height": 268
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "32px",
+      "display": "grid",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-xl text-gray-900 mb-4",
+    "text": "购房流程",
+    "rect": {
+      "x": 65,
+      "y": 1602,
+      "width": 559,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "space-y-4",
+    "text": "1\n注册生成\"陵水好房码\"\n2\n浏览白名单认证房源\n3\n企业微信无骚扰沟通\n4\n定金托管安全交易\n5\n申领购房补贴\n6\n完成现房交付",
+    "rect": {
+      "x": 65,
+      "y": 1646,
+      "width": 559,
+      "height": 224
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3",
+    "text": "1\n注册生成\"陵水好房码\"",
+    "rect": {
+      "x": 65,
+      "y": 1646,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-sm",
+    "text": "1",
+    "rect": {
+      "x": 65,
+      "y": 1646,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "注册生成\"陵水好房码\"",
+    "rect": {
+      "x": 101,
+      "y": 1646,
+      "width": 157.9375,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3",
+    "text": "2\n浏览白名单认证房源",
+    "rect": {
+      "x": 65,
+      "y": 1686,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-sm",
+    "text": "2",
+    "rect": {
+      "x": 65,
+      "y": 1686,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "浏览白名单认证房源",
+    "rect": {
+      "x": 101,
+      "y": 1686,
+      "width": 144,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3",
+    "text": "3\n企业微信无骚扰沟通",
+    "rect": {
+      "x": 65,
+      "y": 1726,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-sm",
+    "text": "3",
+    "rect": {
+      "x": 65,
+      "y": 1726,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "企业微信无骚扰沟通",
+    "rect": {
+      "x": 101,
+      "y": 1726,
+      "width": 144,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3",
+    "text": "4\n定金托管安全交易",
+    "rect": {
+      "x": 65,
+      "y": 1766,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-sm",
+    "text": "4",
+    "rect": {
+      "x": 65,
+      "y": 1766,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "定金托管安全交易",
+    "rect": {
+      "x": 101,
+      "y": 1766,
+      "width": 128,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3",
+    "text": "5\n申领购房补贴",
+    "rect": {
+      "x": 65,
+      "y": 1806,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-sm",
+    "text": "5",
+    "rect": {
+      "x": 65,
+      "y": 1806,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "申领购房补贴",
+    "rect": {
+      "x": 101,
+      "y": 1806,
+      "width": 96,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center space-x-3",
+    "text": "6\n完成现房交付",
+    "rect": {
+      "x": 65,
+      "y": 1846,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-sm",
+    "text": "6",
+    "rect": {
+      "x": 65,
+      "y": 1846,
+      "width": 24,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "oklch(0.932 0.032 255.585)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "完成现房交付",
+    "rect": {
+      "x": 101,
+      "y": 1846,
+      "width": 96,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-xl text-gray-900 mb-4",
+    "text": "应用场景",
+    "rect": {
+      "x": 656,
+      "y": 1602,
+      "width": 559,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "space-y-3",
+    "text": "融媒体引流：抖音/小红书推广\n无骚扰询价：企业微信专属沟通\n合规销售：白名单房源真实可售\n定金退还：24小时原路返还\n补贴申领：直接抵扣首付\n收益分配：平台运营/购房补贴/推广",
+    "rect": {
+      "x": 656,
+      "y": 1646,
+      "width": 559,
+      "height": 204
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-start space-x-2",
+    "text": "融媒体引流：抖音/小红书推广",
+    "rect": {
+      "x": 656,
+      "y": 1646,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 656,
+      "y": 1648,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "融媒体引流：抖音/小红书推广",
+    "rect": {
+      "x": 684,
+      "y": 1646,
+      "width": 214.84375,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-start space-x-2",
+    "text": "无骚扰询价：企业微信专属沟通",
+    "rect": {
+      "x": 656,
+      "y": 1682,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 656,
+      "y": 1684,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "无骚扰询价：企业微信专属沟通",
+    "rect": {
+      "x": 684,
+      "y": 1682,
+      "width": 224,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-start space-x-2",
+    "text": "合规销售：白名单房源真实可售",
+    "rect": {
+      "x": 656,
+      "y": 1718,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 656,
+      "y": 1720,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "合规销售：白名单房源真实可售",
+    "rect": {
+      "x": 684,
+      "y": 1718,
+      "width": 224,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-start space-x-2",
+    "text": "定金退还：24小时原路返还",
+    "rect": {
+      "x": 656,
+      "y": 1754,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 656,
+      "y": 1756,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "定金退还：24小时原路返还",
+    "rect": {
+      "x": 684,
+      "y": 1754,
+      "width": 194.765625,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-start space-x-2",
+    "text": "补贴申领：直接抵扣首付",
+    "rect": {
+      "x": 656,
+      "y": 1790,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 656,
+      "y": 1792,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "补贴申领：直接抵扣首付",
+    "rect": {
+      "x": 684,
+      "y": 1790,
+      "width": 176,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-start space-x-2",
+    "text": "收益分配：平台运营/购房补贴/推广",
+    "rect": {
+      "x": 656,
+      "y": 1826,
+      "width": 559,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 656,
+      "y": 1828,
+      "width": 20,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "text-gray-700",
+    "text": "收益分配：平台运营/购房补贴/推广",
+    "rect": {
+      "x": 684,
+      "y": 1826,
+      "width": 253.671875,
+      "height": 24
+    },
+    "style": {
+      "color": "oklch(0.373 0.034 259.733)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "py-16 bg-white",
+    "text": "开启您的安心购房之旅\n\n热带海岛滨海精致城市 · 创新创业活力城市\n\n立即注册\n浏览房源",
+    "rect": {
+      "x": 0,
+      "y": 1967,
+      "width": 1280,
+      "height": 290
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "64px 0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center",
+    "text": "开启您的安心购房之旅\n\n热带海岛滨海精致城市 · 创新创业活力城市\n\n立即注册\n浏览房源",
+    "rect": {
+      "x": 192,
+      "y": 2031,
+      "width": 896,
+      "height": 162
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px 32px",
+      "margin": "0px 192px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H2",
+    "id": "",
+    "className": "text-3xl text-gray-900 mb-4",
+    "text": "开启您的安心购房之旅",
+    "rect": {
+      "x": 224,
+      "y": 2031,
+      "width": 832,
+      "height": 36
+    },
+    "style": {
+      "color": "oklch(0.21 0.034 264.665)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-xl text-gray-600 mb-8",
+    "text": "热带海岛滨海精致城市 · 创新创业活力城市",
+    "rect": {
+      "x": 224,
+      "y": 2083,
+      "width": 832,
+      "height": 28
+    },
+    "style": {
+      "color": "oklch(0.446 0.03 256.802)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex flex-col sm:flex-row gap-4 justify-center",
+    "text": "立即注册\n浏览房源",
+    "rect": {
+      "x": 224,
+      "y": 2143,
+      "width": 832,
+      "height": 50
+    },
+    "style": {
+      "color": "oklch(0.145 0 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "16px",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors",
+    "text": "立即注册",
+    "rect": {
+      "x": 503,
+      "y": 2143,
+      "width": 128,
+      "height": 50
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "oklch(0.546 0.245 262.881)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "px-8 py-3 border border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50 transition-colors",
+    "text": "浏览房源",
+    "rect": {
+      "x": 647,
+      "y": 2143,
+      "width": 130,
+      "height": 50
+    },
+    "style": {
+      "color": "oklch(0.546 0.245 262.881)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "12px 32px",
+      "margin": "0px",
+      "borderRadius": "10px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "FOOTER",
+    "id": "",
+    "className": "bg-gray-900 text-gray-300 mt-16",
+    "text": "陵水好房码\n极速现房交易平台\n\n海南自贸港现房交易标杆平台，政府信用背书，两保两真认证，一码勿扰，定金托管。\n\n快捷导航\n房源列表\n政策补贴\n企业入驻\n投诉建议\n平台服务\n两保两真认证\nVR实景看房\n",
+    "rect": {
+      "x": 0,
+      "y": 2321,
+      "width": 1280,
+      "height": 381
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "oklch(0.21 0.034 264.665)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "64px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
+    "text": "陵水好房码\n极速现房交易平台\n\n海南自贸港现房交易标杆平台，政府信用背书，两保两真认证，一码勿扰，定金托管。\n\n快捷导航\n房源列表\n政策补贴\n企业入驻\n投诉建议\n平台服务\n两保两真认证\nVR实景看房\n",
+    "rect": {
+      "x": 0,
+      "y": 2321,
+      "width": 1280,
+      "height": 381
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "48px 32px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "grid md:grid-cols-4 gap-8",
+    "text": "陵水好房码\n极速现房交易平台\n\n海南自贸港现房交易标杆平台，政府信用背书，两保两真认证，一码勿扰，定金托管。\n\n快捷导航\n房源列表\n政策补贴\n企业入驻\n投诉建议\n平台服务\n两保两真认证\nVR实景看房\n",
+    "rect": {
+      "x": 32,
+      "y": 2369,
+      "width": 1216,
+      "height": 200
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "32px",
+      "display": "grid",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex items-center mb-4",
+    "text": "陵水好房码\n极速现房交易平台",
+    "rect": {
+      "x": 32,
+      "y": 2369,
+      "width": 280,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 32,
+      "y": 2373,
+      "width": 32,
+      "height": 32
+    },
+    "style": {
+      "color": "oklch(0.623 0.214 259.815)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "ml-3",
+    "text": "陵水好房码\n极速现房交易平台",
+    "rect": {
+      "x": 76,
+      "y": 2369,
+      "width": 96,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-white",
+    "text": "陵水好房码",
+    "rect": {
+      "x": 76,
+      "y": 2369,
+      "width": 96,
+      "height": 24
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-xs text-gray-400",
+    "text": "极速现房交易平台",
+    "rect": {
+      "x": 76,
+      "y": 2393,
+      "width": 96,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.707 0.022 261.325)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "P",
+    "id": "",
+    "className": "text-sm text-gray-400 mb-4",
+    "text": "海南自贸港现房交易标杆平台，政府信用背书，两保两真认证，一码勿扰，定金托管。",
+    "rect": {
+      "x": 32,
+      "y": 2425,
+      "width": 280,
+      "height": 40
+    },
+    "style": {
+      "color": "oklch(0.707 0.022 261.325)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex space-x-3",
+    "text": "",
+    "rect": {
+      "x": 32,
+      "y": 2481,
+      "width": 280,
+      "height": 32
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition-colors",
+    "text": "",
+    "rect": {
+      "x": 32,
+      "y": 2481,
+      "width": 32,
+      "height": 32
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "oklch(0.278 0.033 256.848)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 40,
+      "y": 2489,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition-colors",
+    "text": "",
+    "rect": {
+      "x": 76,
+      "y": 2481,
+      "width": 32,
+      "height": 32
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "oklch(0.278 0.033 256.848)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 84,
+      "y": 2489,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition-colors",
+    "text": "",
+    "rect": {
+      "x": 120,
+      "y": 2481,
+      "width": 32,
+      "height": 32
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "oklch(0.278 0.033 256.848)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "3.35544e+07px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 128,
+      "y": 2489,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-white mb-4",
+    "text": "快捷导航",
+    "rect": {
+      "x": 344,
+      "y": 2369,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "UL",
+    "id": "",
+    "className": "space-y-2 text-sm",
+    "text": "房源列表\n政策补贴\n企业入驻\n投诉建议",
+    "rect": {
+      "x": 344,
+      "y": 2409,
+      "width": 280,
+      "height": 104
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "房源列表",
+    "rect": {
+      "x": 344,
+      "y": 2409,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "政策补贴",
+    "rect": {
+      "x": 344,
+      "y": 2437,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "企业入驻",
+    "rect": {
+      "x": 344,
+      "y": 2465,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "投诉建议",
+    "rect": {
+      "x": 344,
+      "y": 2493,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "inline-block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-white mb-4",
+    "text": "平台服务",
+    "rect": {
+      "x": 656,
+      "y": 2369,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "UL",
+    "id": "",
+    "className": "space-y-2 text-sm",
+    "text": "两保两真认证\nVR实景看房\n定金托管服务\n购房补贴申领\n企业微信咨询\n区块链存证",
+    "rect": {
+      "x": 656,
+      "y": 2409,
+      "width": 280,
+      "height": 160
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "H3",
+    "id": "",
+    "className": "text-white mb-4",
+    "text": "联系我们",
+    "rect": {
+      "x": 968,
+      "y": 2369,
+      "width": 280,
+      "height": 24
+    },
+    "style": {
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 16px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "UL",
+    "id": "",
+    "className": "space-y-3 text-sm",
+    "text": "客服热线：400-888-8888\n工作日 9:00-18:00\nservice@lingshui-house.com\n海南省陵水黎族自治县",
+    "rect": {
+      "x": 968,
+      "y": 2409,
+      "width": 280,
+      "height": 100
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "LI",
+    "id": "",
+    "className": "flex items-start",
+    "text": "客服热线：400-888-8888\n工作日 9:00-18:00",
+    "rect": {
+      "x": 968,
+      "y": 2409,
+      "width": 280,
+      "height": 36
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 968,
+      "y": 2411,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "text-xs text-gray-500",
+    "text": "工作日 9:00-18:00",
+    "rect": {
+      "x": 992,
+      "y": 2429,
+      "width": 164.21875,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "LI",
+    "id": "",
+    "className": "flex items-start",
+    "text": "service@lingshui-house.com",
+    "rect": {
+      "x": 968,
+      "y": 2457,
+      "width": 280,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 0px 12px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 968,
+      "y": 2459,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "LI",
+    "id": "",
+    "className": "flex items-start",
+    "text": "海南省陵水黎族自治县",
+    "rect": {
+      "x": 968,
+      "y": 2489,
+      "width": 280,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "flex-start"
+    }
+  },
+  {
+    "tag": "svg",
+    "id": "",
+    "className": {},
+    "rect": {
+      "x": 968,
+      "y": 2491,
+      "width": 16,
+      "height": 16
+    },
+    "style": {
+      "color": "oklch(0.872 0.01 258.338)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "2px 8px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500",
+    "text": "© 2024 陵水好房码. All rights reserved.\n用户协议\n隐私政策\n网站地图",
+    "rect": {
+      "x": 32,
+      "y": 2601,
+      "width": 1216,
+      "height": 53
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "32px 0px 0px",
+      "margin": "32px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "alignItems": "center"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "mb-4 md:mb-0",
+    "text": "© 2024 陵水好房码. All rights reserved.",
+    "rect": {
+      "x": 32,
+      "y": 2634,
+      "width": 257,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "flex space-x-6",
+    "text": "用户协议\n隐私政策\n网站地图",
+    "rect": {
+      "x": 1032,
+      "y": 2634,
+      "width": 216,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "用户协议",
+    "rect": {
+      "x": 1032,
+      "y": 2634,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 24px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "隐私政策",
+    "rect": {
+      "x": 1112,
+      "y": 2634,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px 24px 0px 0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "className": "hover:text-white transition-colors",
+    "text": "网站地图",
+    "rect": {
+      "x": 1192,
+      "y": 2634,
+      "width": 56,
+      "height": 20
+    },
+    "style": {
+      "color": "oklch(0.551 0.027 264.364)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "gap": "normal",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal"
+    }
+  }
+]
